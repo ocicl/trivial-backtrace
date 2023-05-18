@@ -1,0 +1,9 @@
+* trivial-backtrace
+
+Portable simple API to work with backtraces in Common Lisp.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/gwkkwg/trivial-backtrace.git |
+| commit  | 7f90b4a                                             |
+| systems | trivial-backtrace                                   |
+|---------+-----------------------------------------------------|
