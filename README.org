@@ -7,3 +7,4 @@ Portable simple API to work with backtraces in Common Lisp.
 | commit  | 7f90b4a                                             |
 | systems | trivial-backtrace                                   |
 |---------+-----------------------------------------------------|
+ 
